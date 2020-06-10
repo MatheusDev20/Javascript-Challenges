@@ -4,7 +4,8 @@
 ## Challenge 1 - Implementar meu próprio Reduce, Map e Filter  
 ### [#challenge 1](https://github.com/MatheusDev20/Javascript-Challenges/tree/master/Map%26Reduce%26Filter)  
 ## Challenge 2 - Implementar um filtro de items básico  com Javascript  
-### [#challenge 2](https://github.com/MatheusDev20/Javascript-Challenges/tree/master/Filter-Challenge)  
+### [#challenge 2](https://github.com/MatheusDev20/Javascript-Challenges/tree/master/Filter-Challenge)
+
 
 
 
